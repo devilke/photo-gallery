@@ -1,3 +1,4 @@
+baseURL = "https://devilke.github.io/photo-gallery/"
 copyright = "© Senne"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
