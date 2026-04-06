@@ -1,0 +1,19 @@
+baseURL = 'https://example.com/'
+languageCode = 'en-us'
+title = 'Photo Gallery'
+theme = 'gallery'
+
+[params]
+  title = "Photo Gallery"
+  description = "My beautiful photo collection"
+  author = "Senne"
+
+[params.style]
+  background = "#1d1f21"
+  foreground = "#c5c8c6"
+  theme = "dark"
+
+[imaging]
+  resampleFilter = "CatmullRom"
+  quality = 90
+  hint = "photo"
