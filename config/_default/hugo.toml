@@ -1,4 +1,4 @@
-baseURL = "https://devilke.github.io/photo-gallery/"
+baseURL = "https://fotogallerij.netlify.app/"
 copyright = "© Senne"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
